@@ -97,7 +97,7 @@ function section4() {
 
                     </div>
                     <div className="Images absolute top-[3rem]  hidden sm:hidden xl:block">
-                        <Image src={Line} alt="Line"></Image>
+                        <Image src={"/Line.png"} alt="Line"></Image>
                     </div>
                 </div>
             </div>
