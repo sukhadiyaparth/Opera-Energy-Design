@@ -5,7 +5,7 @@ import G1 from "../../../public/Group1.png"
 import G2 from "../../../public/Group2.png"
 import G3 from "../../../public/Group3.png"
 import G4 from "../../../public/Group4.png"
-import Line from "../../../public/Line.png"
+
 
 
 function section4() {
