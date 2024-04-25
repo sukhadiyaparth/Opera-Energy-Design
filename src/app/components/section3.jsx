@@ -48,7 +48,7 @@ function section3() {
                     </div>
                     <div className="content-2">
                         <div>
-                            <Image src={"/fan.png"} alt="fan" height={500} width={500}></Image>
+                            <Image src={"/Fan.png"} alt="fan" height={500} width={500}></Image>
                         </div>
                     </div>
                     <div className="content-3 flex flex-col gap-5">
